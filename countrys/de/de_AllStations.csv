@@ -1,4 +1,4 @@
-name,url,encoding,icon,profile,buffering,force-http,volume,referer,player
+#name,url,encoding,icon,profile,buffering,force-http,volume,referer,player
 Blasmusikradio mit Bernd,https://stream.laut.fm/blasmusikradio_mit_bernd,,,,,,,,
 psyradio * fm - progressive,http://streamer.psyradio.org:8010/;listen.mp3,,,,,,,,
 WDR Sportschau - 2. Fussball Bundesliga-Konferenz LIVE,http://wdr-sportschau-liga2konferenz.icecastssl.wdr.de/wdr/sportschau/liga2konferenz/mp3/high,,,,,,,,
